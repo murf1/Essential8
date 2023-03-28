@@ -13,6 +13,8 @@ Dashboard Detail View
 Control Detail View - with Test, Test Methodology, Evidence
 ![Table3](https://user-images.githubusercontent.com/13479057/228134154-384926f1-5392-4640-83f3-ba6640e46ee5.png)
 
+![Control Tab_ Details](https://user-images.githubusercontent.com/13479057/228146582-a2dbaadb-e10e-4fcb-abec-98cdd04eba41.png)
+![Dashboard_ Details](https://user-images.githubusercontent.com/13479057/228146591-33b46c4d-d88c-46f3-a3dc-08cba31ea4d9.png)
 
 
 ![ASD8](https://user-images.githubusercontent.com/13479057/228097707-451a37ca-7541-4dbc-91c9-5ec34f917137.png)
